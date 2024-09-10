@@ -1,5 +1,7 @@
 # Building a Full Stack Wave Portal application on the Linea zkEVM with React, Metamask, and Foundry
 
+<img width="1047" alt="Screen Shot 2024-09-10 at 11 03 48 AM" src="https://github.com/user-attachments/assets/caea11d2-7ba2-4724-a847-9284a13bbc06">
+
 ## Introduction
 
 In this tutorial, we'll build a full stack application called Wave Portal on the Linea network using React, Metamask, and Foundry. 
